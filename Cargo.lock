@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "database_app_2"
+name = "sqlite-editor-gui"
 version = "0.1.0"
